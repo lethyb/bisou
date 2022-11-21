@@ -1,0 +1,28 @@
+entries:
+  - title: Stuff
+    post_list:
+      limit: 3
+      category: stuff
+      show_more: true
+      show_more_text: See more >>
+      show_more_url: stuff.html
+
+  - title: Blog
+    post_list:
+      limit: 3
+      category: blog
+      show_more: true
+      show_more_text: See more >>
+      show_more_url: blog.html
+
+  # - title: "[rss feed]"
+  #   url: feed.xml
+
+  # - title: CV
+  #   url: assets/cv.pdf
+
+  # - title: Github
+  #   url: https://github.com/lethyb?tab=repositories
+
+  - title: About
+    url: about
