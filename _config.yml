@@ -40,6 +40,7 @@ github_username: lethyb
 # Build settings
 # theme: minima
 theme: no-style-please
+remote_theme: no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "<<" # customize text for homepage link in post layout
