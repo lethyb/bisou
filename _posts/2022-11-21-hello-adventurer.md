@@ -16,8 +16,8 @@ I'll try to post on a regular basis some [`IT suff`][stuff], nothing fancy thoug
 
 You will learn so much around here that it will be your homepage. 
 
-[about]: /about
-[cv]: /assets/cv.pdf
+[about]: about
+[cv]: assets/cv.pdf
 [github]: https://github.com/lethyb?tab=repositories
-[blog]: /blog
-[stuff]: /stuff
+[blog]: blog
+[stuff]: stuff
