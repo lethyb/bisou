@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: /> Bonjour adventurer !
+title: /> Hello !
 author: Thibault-Pierre
 email: gouin.thibault@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,10 +29,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   <br /><br />
   🚧 Currently under construction, so be cool !  
   <br /><br />
-  Santé 🍻 🍻
+  BISOU ❤️️
 
-baseurl: "/bonjour" # the subpath of your site, e.g. /blog
-url: https://lethyb.github.io/
+baseurl: "/bisou" # the subpath of your site, e.g. /blog
+url: https://lethyb.github.io
 permalink: /:slug
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 github_username: lethyb

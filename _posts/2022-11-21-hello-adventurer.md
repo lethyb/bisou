@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Hello Adventurer
 categories: blog
 ---
-Hello people,
+
+![Hello Adventurer !](assets/hello-adventurer.png)
 
 I'm starting this new project, writing some pieces of code and little stories.
 
@@ -14,8 +15,6 @@ You will probably find my [`CV`][cv]{:target="_blank"} and my [`Github repos`][g
 I'll try to post on a regular basis some [`IT suff`][stuff], nothing fancy though, and whenever I feel the need to spit on someone or to simply put down any wonderful ideas I will release my sorrowness in [`my dear diary`][blog].
 
 You will learn so much around here that it will be your homepage. 
-
-BISOU.
 
 [about]: /about
 [cv]: /assets/cv.pdf

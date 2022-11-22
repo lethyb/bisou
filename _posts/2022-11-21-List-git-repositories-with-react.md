@@ -13,6 +13,4 @@ In a near future, I might improve that code and update this post accordingly.
 
 Anyways, you will find this project [`here`][github_sc]{:target="_blank"}
 
-BISOU.
-
 [github_sc]: https://github.com/lethyb/stunning-carnival
